@@ -1,1 +1,3 @@
 theme: jekyll-theme-cayman
+title: A journey to AI ML system
+description: This website illustrate how to setup an end-to-end AI ML system, including notebook instance setup, data acquisition and ingestion pipeline, training and prediction platform set up and etc. 
